@@ -17,13 +17,13 @@
   "bugs": {
     "url": "https://github.com/ryuuto829/journey-log/issues"
   },
-  "proxy": "http://localhost:8080",
+  "proxy": "https://journey-log-server.herokuapp.com/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "build:css": "postcss src/styles/index.css -o src/styles/App.css",
+    "build:css": "postcss src/styles/index.css -o src/styles/App.css --minify",
     "watch:css": "postcss src/styles/index.css -o src/styles/App.css --watch"
   },
   "jest": {
@@ -103,6 +103,7 @@
     "postcss-cli": "^8.3.1",
     "postcss-import": "^14.0.0",
     "prettier": "^2.2.1",
-    "tailwindcss": "^2.0.3"
+    "tailwindcss": "^2.0.3",
+    "worker-loader": "^3.0.8"
   }
 }
