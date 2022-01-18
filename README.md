@@ -3,15 +3,16 @@
   <h1 align="center">
     Journey Log
   </h1>
-  <p>A Full-stack app using React & Express for writing notes on the map about places you've.</P>
-  <p>https://journey-log-ryuuto829.netlify.app</P>
+  <p>A Full-stack app using React & Express for writing notes on the map about places you've visited.</P>
+  <p><strong>https://journey-log-ryuuto829.netlify.app</strong></p>
+  <img alt="Demo" src="https://raw.githubusercontent.com/ryuuto829/journey-log/master/_assets/journey-log-demo.gif" width="740" />
 </div>
 
-<img alt="Demo" src="https://raw.githubusercontent.com/ryuuto829/journey-log/master/_assets/journey-log-demo.gif" width="740" />
+## Table of contents
 
 - [Features](#features)
-- [Front-End Tech stack](#front-end-tech-stack)
-- [Back-End Tech stack](#back-end-tech-stack)
+- [Front-end Tech stack](#front-end-tech-stack)
+- [Back-end Tech stack](#back-end-tech-stack)
 - [Folder Structure](#folder-structure)
 - [Getting Started](#getting-started)
 
@@ -24,19 +25,19 @@
 - Sort cards with log entries
 - Display description and notes about the marker
 
-## Front-End Tech stack
+## Front-end Tech stack
 
 - React
 - Reach Router
 - Tailwind CSS
 - React-map-gl (for Mapbox API)
 
-## Back-End Tech stack
+## Back-end Tech stack
 
 - MongoDB (as a database)
 - Express
 - JsonWebToken (JWT)
-- Jest
+- Jest (for testing)
 
 ## Folder Structure
 
