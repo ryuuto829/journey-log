@@ -2,7 +2,7 @@
 
 Back-end for Journey Log App built on Express.js.
 
-Built with:
+## Built with
 
 - MongoDB (as a database)
 - Express

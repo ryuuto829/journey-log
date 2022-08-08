@@ -2,7 +2,7 @@
 
 Front-end for Journey Log App built with React.
 
-Built with:
+## Built with
 
 - React
 - Reach Router
