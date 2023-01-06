@@ -1,8 +1,5 @@
 module.exports = {
-  purge: [
-    './src/**/*.html',
-    './src/**/*.js',
-  ],
+  purge: ['./src/**/*.html', './src/**/*.js'],
   theme: {
     extend: {
       colors: {
@@ -24,8 +21,8 @@ module.exports = {
         primary: ['Quicksand'],
       },
       spacing: {
-        '100': '25rem',
-        '101': '30rem',
+        100: '25rem',
+        101: '30rem',
       },
     },
   },

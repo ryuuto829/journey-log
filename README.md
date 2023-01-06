@@ -17,7 +17,7 @@ A Full-stack Travel Log to store / list places you have traveled. Built with Rea
 An app consists of two parts:
 
 - `client` - frond-end (user interface) hosted on Netlify
-- `server` - back-end (custom server) hosted on Heroku
+- `server` - back-end (custom server) hosted on ~~Heroku~~ Render
 
 ## Features
 
