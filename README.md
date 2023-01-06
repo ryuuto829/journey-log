@@ -45,7 +45,7 @@ An app consists of two parts:
 - Node.js (w/ Express.js)
 - JSON web tokens (JWT)
 - Jest (for testing)
-- Heroku
+- Render (UPD. migrated from Heroku)
 
 ## Folder Structure
 

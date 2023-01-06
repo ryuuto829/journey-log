@@ -17,7 +17,7 @@
   "bugs": {
     "url": "https://github.com/ryuuto829/journey-log/issues"
   },
-  "proxy": "https://journey-log-server.herokuapp.com/",
+  "proxy": "https://journey-log-server.onrender.com",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",

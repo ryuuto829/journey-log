@@ -62,7 +62,9 @@ yarn dev
 yarn run test
 ```
 
-## Deploy to Heroku
+## (Optional) Deploy to Heroku
+
+> NOTE: Project has been migrated from Heroku to Render
 
 1. Heroku setup
 
