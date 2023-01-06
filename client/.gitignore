@@ -7,7 +7,6 @@
 # production
 /build
 .env
-src/styles/App.css
 
 # misc
 .DS_Store
